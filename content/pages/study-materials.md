@@ -41,7 +41,7 @@ MATLAB Homework 6 ([PDF]({{< baseurl >}}/resources/matlab6))
 Class Resources
 ---------------
 
-*   Movie of elimination: moe.m ([M](/courses/mathematics/18-085-computational-science-and-engineering-i-fall-2008/study-materials/moe.m)) (also need realmmd.m ([M](/courses/mathematics/18-085-computational-science-and-engineering-i-fall-2008/study-materials/realmmd.m)))
+*   Movie of elimination: moe.m ({{% resource_link "7d381a66-64d9-d6e6-cbad-f9674a2f678a" "M" %}}) (also need realmmd.m ({{% resource_link "bd1be269-225e-36e2-96b7-5929ded5aa5b" "M" %}}))
 *   Code to create K,T,B,C as sparse matrices ([HTML]({{< baseurl >}}/pages/study-materials/create_sparse.html))
 *   MATLAB backslash command to solve Ax = b ([PDF]({{< baseurl >}}/resources/backslash))
 *   Gradient and divergence / parallel table ([PDF]({{< baseurl >}}/resources/onepager))
